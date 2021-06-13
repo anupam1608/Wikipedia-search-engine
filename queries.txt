@@ -1,0 +1,25 @@
+10, Cheiropterocephalus
+10, c:Political parties in France i:Dominique de Villepin
+10, b:sweden r:Pluxemburg
+20, t:monkey king i:journey to the West c:Trickster gods
+10, t:Painted tree-rat i:Myocastorini
+10, t:Sebastien Siani c:K.V. Oostende players i:Sebastien
+10, Mahendra Singh Dhoni
+10, t:presidential campaign b:obama i:2012
+5, t:Wroclaw Uniwersity i:Konigliche
+20, b:Toni Nadal i:Rafael Nadal
+20, t:love b:Arrows
+10, t:Fallout i:windows r:bethesda
+20, t:russia tajikistan relation
+10, b:Big Four i:Agatha Christie
+5, b:1898 c:Leicester City Football League
+10, t:Commonwealth Games i:melbourne b:Stolenwealth c:sports
+5, Chomsky Grammar
+20, Adobe Acrobat
+3, b:V for Vendetta i:2006
+5, young's modulus
+10, b:Speed of light c:Concepts in physics
+20, b:angus r:tories i:James Lee
+30, b:Taxicab 1729
+50, b:Marc Spector i:Marvel Comics c:1980 comics debuts
+100, Sudebnik

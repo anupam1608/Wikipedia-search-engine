@@ -1,0 +1,399 @@
+5292074,Cheiropterocephalus
+5292027,Malaxis
+0.07526661400333978 , 0.007526661400333978
+
+3617769,Rate-capping rebellion
+6087078,Organisation of Eastern Caribbean States
+4414317,Water politics in the Middle East
+7211226,Revolutionary Party of Central American Workers
+6106149,Highlands and Islands Alliance
+9036367,200608 Bangladeshi political crisis
+2179394,Slovene People's Party (historical)
+2248114,Black Panther Party
+8429227,Royal Commission on the Constitution (United Kingdom)
+483128,Fifteenth government of Israel
+0.07451748799940106 , 0.007451748799940106
+
+7060416,Template:Years in Sweden
+4102280,Outline of Sweden
+5347579,Sweden
+9141617,Sweden national football team
+1433522,Wikipedia:WikiProject Sweden/Article alerts/Archive
+6461670,Comparison of European road signs
+8088552,List of Swedish monarchs
+1487193,Road signs in Sweden
+2593707,Wikipedia:WikiProject Sweden/Cleanup listing
+8089383,History of Sweden
+0.13381715300056385 , 0.013381715300056385
+
+1868333,Monkey see, monkey do
+2702153,File:Super Monkey Monkey Ball characters.jpg
+4319200,Monkey See, Monkey Don't/Fake Dad
+5591057,Monkey See, Monkey Duel
+7653506,Monkey see monkey do
+8838575,Monkey See, Monkey Do
+3741,Lion monkey
+8166,Monkey Bar Games
+20572,Army of the Twelve Monkeys
+21595,Category:Wikipedia sockpuppets of Ibague Monkey
+48479,Infinite Monkey Protocol Suite
+49278,File:Ape Escape Million Monkeys Cover.jpg
+51586,Silver springs monkey case
+51588,Silver springs monkeys
+69122,Lucky See, Monkey Do
+72051,Snub-nosed monkeys
+72052,Snub nosed monkeys
+79422,List of Arctic Monkeys awards
+88980,Ursine Howler Monkey
+89095,Southern Brown Howler Monkey
+0.10185350899701007 , 0.005092675449850504
+
+582587,File:Joseph Nawahi - 'Vie'View of Hilo Bay', oil painting by Joseph Nawahi, 1888, Kamehameha Schools, Honoluluw of Hilo Bay', oil painting by Joseph Nawahi, 1888, Kamehameha Schools, Honolulu.jpg
+1772265,Paint and Paint
+3381872,File:Paint-and-paint.jpg
+4345982,File:'Mobile Painting -5', acrylic on canvas painting with moveable panel by Jerry Okimoto, c. 1975, private collection.jpg
+5092923,Paint and paint
+1689,Indian Paint
+1870,Bad Painting
+7742,War Paint (1953 film)
+8391,Monochrome paintings
+15042,War Paint (1953 Film)
+0.028519038001832087 , 0.0028519038001832086
+
+3538192,Sebastien De Maio
+2261399,Sebastien Grainger & The Mountains
+4093300,Sebastien (band)
+3953994,Sebastien Chaule
+4565559,Sebastien Grainger
+8072832,Liam Sebastien
+9756615,Sebastien Vorbe
+5657736,Sebastien Roberts
+7387442,Sebastien Boucher
+7990,Sebastien Grainger and the Mountains
+0.06373108799743932 , 0.006373108799743931
+
+1047225,Balu Mahendra
+8691840,Mahendra of Nepal
+4985906,List of winners and runners-up in the 1991 Nepalese legislative election
+6121521,Mahendra Kapoor
+9578746,Yusril Ihza Mahendra
+583794,Mahendra Highway
+4951036,Mahendra Singh Mewar
+6030133,Mahendra Chaudhry
+1995733,Mahendra Pratap
+6026373,Mahendra
+0.22847762099991087 , 0.022847762099991085
+
+1481872,List of female United States presidential and vice-presidential candidates
+1505378,List of female U.S. presidential and vice-presidential candidates
+2430109,Wikipedia:Articles for deletion/The West Wing presidential election, 2002 (The West Wing presidential election, 1998 nomination)
+3182299,List of African-American United States presidential and vice presidential candidates
+3315159,List of African American United States presidential and vice presidential candidates
+3666048,Wikipedia:WikiProject United States presidential elections/Sam Brownback 2008 presidential campaign
+6330401,Barack Obama presidential campaign vice-presidential selection process
+6858626,Presidential and Vice-Presidential Artifacts Museum
+1665,List of presidential assassination attempts
+2017,Wikipedia:Articles for deletion/List of United States Presidential pets
+0.10202985200157855 , 0.010202985200157855
+
+8824,Margaret of Bohemia, Duchess of Wroclaw
+16494,DHL Wroclaw Challenge
+315923,Siege of Wroclaw
+315926,Battle of Wroclaw
+447475,Wikipedia:WikiProject Spam/LinkReports/tsering.wroclaw.pl
+0.029648128998815082 , 0.005929625799763016
+
+6102744,List of The Sopranos characters
+6256039,Wikipedia:Requests for arbitration/Badlydrawnjeff/Workshop
+7208107,List of Who's the Boss? episodes
+750446,Wikipedia:Requests for arbitration/InShaneee/Workshop
+3732193,Wikipedia:General sanctions/Climate change probation/Log
+8482976,Wikipedia:Requests for arbitration/Giano/Workshop/findings of fact
+9600381,Wikipedia:Requests for comment/Tony Sidaway 2
+8467652,Wikipedia:Requests for arbitration/Giano/Workshop
+7113986,List of I Dream of Jeannie episodes
+5243435,Wikipedia:Requests for arbitration/IRC/Workshop
+4721815,Tony Hutchinson
+6102755,Tony Soprano
+8706118,The Time Tunnel
+8450705,Wikipedia:Administrators' noticeboard/Giano
+4910175,Wikipedia:WikiProject Canadian football/Articles
+3157424,Wikipedia:Requests for arbitration/Date delinking/Workshop
+8099389,Tony Award
+4647810,Wikipedia:Requests for arbitration/Webcomics/Workshop
+1880475,Wikipedia:Schools/Archive
+6194854,1994 Labour Party deputy leadership election
+0.22486603599827504 , 0.011243301799913752
+
+56696,Love Love Love (Agnes song)
+56713,File:Agnes love love love.jpg
+56788,Love Love Love (Agnes Carlsson song)
+205512,Dance Love Pop - The Love Love Edition
+910490,It's Love-Love-Love
+911680,It's Love, Love, Love
+2489339,Love Love Love
+2489393,Love Love Love (movie)
+2867204,Love, Love, Love (James Blunt song)
+2882201,Love Love Love (James Blunt song)
+2883701,File:Love, Love, Love.jpg
+3205226,Love Love Love (song)
+3205245,Love, Love, Love
+3205254,Love, Love, Love (song)
+3205436,Love Love Love (disambiguation)
+3239772,Love Love Love (Ken Hirai song)
+3350490,Love Love Love (Ken Hirai)
+3603283,Love Love Love (Webb Pierce song)
+3654929,I Love You Love Me Love
+4463265,Love Love Love (Lenny Kravitz song)
+0.08150189200387103 , 0.004075094600193552
+
+8770,Wikipedia:Articles for deletion/Fallout: The Health Impact of 9/11
+56547,Fallout: The Health Impact of 9/11
+56552,Wikipedia:Articles for deletion/Fallout: The Health Impact of 9/11 (2nd nomination)
+94348,Fallout Brotherhood Of Steel
+221076,Fallout the prisoner
+308705,Wikipedia:Articles for deletion/Fallout 3 walkthrough
+351010,File:Dorm Fallout Shelter Sign.JPG
+367974,Fallout 3 soundtrack
+384596,Fallout: New Vegas
+401581,Fallout:New Vegas
+0.026741638001112733 , 0.0026741638001112735
+
+499406,Portal:Russia/Russia topics
+575317,Name of Russia (Russia TV)
+651769,Russia High School (Russia, Ohio)
+954786,Portal:Russia/Russia editions
+1889030,Portal:Russia/Russia news
+1957713,Wikipedia:WikiProject Russia/Russia-related Wikipedia notice board
+2735894,Portal:Russia/Russia-related Wikipedia notice board
+2735899,Portal:Russia/Russia-related Wikipedia notice board/Archive0
+2735900,Portal:Russia/Russia-related Wikipedia notice board/Archive01
+2735901,Portal:Russia/Russia-related Wikipedia notice board/Archive02
+2735902,Portal:Russia/Russia-related Wikipedia notice board/Archive03
+2735903,Portal:Russia/Russia-related Wikipedia notice board/Archive04
+2735905,Portal:Russia/Russia-related Wikipedia notice board/Archive05
+2735906,Portal:Russia/Russia-related Wikipedia notice board/Archive06
+2738116,Wikipedia:WikiProject Russia/Russia-related Wikipedia notice board/Archive07
+4849478,Wikipedia:WikiProject Russia/Russia-related Wikipedia notice board/Archive01
+5492156,Wikipedia:WikiProject Russia/Russia-related Wikipedia notice board/Archive02
+5658685,Wikipedia:WikiProject Russia/Russia-related Wikipedia notice board/Archive0
+7295837,Wikipedia:WikiProject Russia/Russia-related Wikipedia notice board/Archive06
+8515033,Wikipedia:WikiProject Russia/Russia-related Wikipedia notice board/Archive03
+0.05561540700000478 , 0.002780770350000239
+
+7793806,List of sailors at the Summer Olympics
+8237132,ryabhaa numeration
+6094266,Isan language
+5046621,Athletics at the Asian Games
+2995655,Swimming at the Asian Games
+2219561,2014 European Parliament election
+2553585,Alpine skiing at the Winter Paralympics
+4529279,Big Brother (franchise)
+5752986,List of tornadoes in the May 2003 tornado outbreak sequence
+2233612,Athletics at the African Games
+0.3920910759989056 , 0.03920910759989056
+
+3292143,Glossary of gastropod terms
+2143929,Wikipedia:WikiProject Spam/LinkReports/philips.co.th
+2465766,Wikipedia:WikiProject Spam/LinkReports/egger..com
+2466573,Wikipedia:WikiProject Spam/LinkReports/.michaelianblack.net
+2461013,Wikipedia:WikiProject Spam/LinkReports/all-acronyms...com
+0.15484664800169412 , 0.030969329600338824
+
+1212579,Template:Commonwealth Games Associations in 2006 Commonwealth Games
+1220828,Template:Commonwealth Games Associations at the 1930 Commonwealth Games
+4370155,File:Commonwealth of Nations showing Commonwealth realms.png
+6848994,Template:Commonwealth Games Associations at the 2010 Commonwealth Games
+6848996,Template:Commonwealth Games Associations at the 1990 Commonwealth Games
+6848998,Template:Commonwealth Games Associations at the 1982 Commonwealth Games
+6848999,Template:Commonwealth Games Associations at the 1994 Commonwealth Games
+6849000,Template:Commonwealth Games Associations at the 1998 Commonwealth Games
+6849001,Template:Commonwealth Games Associations at the 2002 Commonwealth Games
+6849002,Template:Commonwealth Games Associations at the 2006 Commonwealth Games
+0.10047985499841161 , 0.01004798549984116
+
+4540752,Noam Chomsky
+1454081,Political positions of Noam Chomsky
+1634317,The Anti-Chomsky Reader
+276842,Noam Chomsky bibliography and filmography
+1241039,Syntactic Structures
+0.1605134870042093 , 0.03210269740084186
+
+4540318,Adobe Flash
+6015893,Adobe Creative Suite
+4527742,Adobe Inc.
+1203607,Adobe Flash Player
+3659291,Adobe AIR
+4637528,List of Adobe software
+567139,Adobe Technical Communication Suite
+9728171,Adobe Premiere Pro
+1308846,Adobe Animate
+4543040,Adobe Photoshop
+2076863,Adobe Connect
+4526891,Adobe
+1166211,Adobe Premiere Elements
+8632595,Adobe Acrobat
+3456180,Adobe Creek (Santa Clara County)
+4412744,Leonis Adobe
+6289667,Adobe Originals
+4835577,Adobe LiveCycle Designer
+8632916,Adobe GoLive
+1919102,Adobe Captivate
+0.16544294000050286 , 0.008272147000025144
+
+4159721,List of Advanced Dungeons & Dragons 2nd edition monsters
+2107290,List of England national rugby union players
+3910872,List of France national rugby union players
+0.622591958999692 , 0.20753065299989734
+
+8121338,Neil Young
+9411599,Vince Young
+4529725,Brigham Young
+6044723,George Young, Baron Young of Cookham
+8683319,Will Young
+1.1631820629991125 , 0.2326364125998225
+
+3318012,Wikipedia:Arbitration/Requests/Case/Speed of light/Workshop
+8115174,Speed limit
+487728,Netherlands at the Olympics
+8096420,High-speed rail
+5029262,High-speed rail in Europe
+9036179,High-speed rail in China
+7934812,Wikipedia:Templates with red links/Sports (Other)
+4477432,List of Speed Racer episodes
+4795767,Speed skating at the Winter Olympics
+5717485,List of Olympic medalists in speed skating
+0.35020441700180527 , 0.035020441700180524
+
+8662342,Wikipedia:Upload log archive/June 2003
+5392621,List of civil parishes in Scotland
+5595532,Production history of the Oregon Shakespeare Festival
+982057,Wikipedia:Articles for creation/2007-04-30
+6140854,Wikipedia:Articles for creation/2007-05-05
+4528145,Angus, Scotland
+8931893,Angus & Julia Stone
+6823660,Angus (given name)
+6125261,Earl of Angus
+1848638,Richard B. Angus
+8654621,Angus cattle
+2109477,2013 British Columbia general election
+9665436,Angus (film)
+8167838,List of museums in Scotland
+3805018,Opinion polling for the 2011 Canadian federal election
+6808428,List of Neighbours characters (2007)
+2642507,Opinion polling for the 2008 Canadian federal election
+9758482,Archibald Douglas, 6th Earl of Angus
+3713281,Escape from Scorpion Island (series 4)
+3298623,Thracian warfare
+0.09562561599886976 , 0.004781280799943488
+
+5602151,Taxicabs by country
+8343021,Taxicabs of the United States
+234237,Taxicab
+1974053,Taxicabs of New York City
+9700961,Checker Motors Corporation
+2249111,Taxis in India
+6101373,Taxicab number
+3458659,Hybrid taxi
+6040779,Taxicab geometry
+8390306,Taxicabs of the United Kingdom
+8526631,Taxicabs of Mexico
+1965914,List of Austin motor vehicles
+605102,New York City Taxi and Limousine Commission
+5192355,Illegal taxicab operation
+1590886,Wikipedia:Reference desk/Archives/Mathematics/March 2006
+6031311,Hackney carriage
+6043825,Taxicab stand
+9700954,Yellow cab
+8418568,John C. Montana
+8877800,Black & White Taxicab & Transfer Co. v. Brown & Yellow Taxicab & Transfer Co.
+1623782,Carbodies
+4244519,Taxicabs of the Philippines
+5510965,Transport in London
+5621791,Nuffield Oxford Taxi
+5678068,Morris Commercial Cars
+440065,Taxicabs of Canada
+2072643,Marshrutka
+3428817,Volvo TR670 Series
+7653663,Wikipedia:WikiProject Spam/COIReports/2010, May 3
+9196190,Generalized taxicab number
+0.09440658100356814 , 0.003146886033452271
+
+5240152,Wikipedia:WikiProject Spam/LinkReports/marc-grodwohl.com
+7428166,Wikipedia:WikiProject Spam/COIReports/2007, Aug 10
+6766326,Wikipedia:WikiProject Spam/COIReports/2010, Sep 13
+3852473,Marc O'Polo
+341471,Jean-Marc
+2706014,The Mole (Australian season 3)
+8105537,Marc Chagall
+7137803,Marc (given name)
+7301797,Wikipedia:WikiProject Spam/COIReports/2007, Jul 20
+8187719,Franz Marc
+8000975,Marc Almond discography
+8896839,Marc St. James
+6101779,MARC Train
+9783306,Weinerville
+4910175,Wikipedia:WikiProject Canadian football/Articles
+9318255,Moon Knight
+5221366,Some Bizzare Records discography
+3160887,2009 Stanley Cup playoffs
+9317259,List of films based on Marvel Comics publications
+2890989,Marc Anthony discography
+1864887,Marc Jacobs
+6481193,Wikipedia:WikiProject Spam/COIReports/2008, Jul 15
+4870304,Saint-Marc
+4403101,200809 Memphis Grizzlies season
+7129946,2008 Stanley Cup playoffs
+9220271,MARC standards
+2064006,Marc Storace
+3873494,Wikipedia:WikiProject Spam/COIReports/2010, Feb 10
+6030164,Wikipedia:Upload log archive/November 2003
+8200378,Marc Bolan
+1982169,Wikipedia:Music encyclopedia topics/30
+3517431,List of Chopped episodes
+6730983,Marc VDS Racing Team
+714476,Don't Ask, Don't Tell (Ugly Betty)
+4735329,La Moustache
+5821445,Ugly Betty (season 3)
+7817630,201011 Wichita Thunder season
+7830667,201011 Memphis Grizzlies season
+1718204,Calvaire (film)
+9734234,Game Designers' Workshop
+6871117,2012 Dakar Rally
+5329041,Wikipedia:WikiProject Spam/LinkReports/omnium.cat
+8256484,List of Bob the Builder episodes
+8702061,Marc Anthony
+5481464,Tales of the Shadowmen
+1656400,Bonkers (compilation album series)
+5668254,Marc (TV series)
+3712406,Big Brother (German season 10)
+1581962,List of I Love Lucy episodes
+9145623,List of NHL statistical leaders
+0.1655010870017577 , 0.003310021740035154
+
+9656636,Sudebnik of 1497
+9120057,Sudebnik of 1550
+4875891,Sobornoye Ulozheniye
+1105577,Serfdom in Russia
+9231519,Russkaya Pravda
+8171667,Ivan III of Russia
+46392,Forbidden years
+1155456,Timeline of Russian history
+1474489,Pskov Judicial Charter
+6782352,List of Russian scientists
+8130655,List of Russian people
+6644986,Sudebnik of Kazimir
+652055,Wikipedia:WikiProject Russia/New article announcements/January 2007
+1644888,George's Day in Autumn
+3561204,William E. Butler
+5154347,Novgorod Judicial Charter
+6109975,Law of Russia
+6878978,List of Russian historians
+8089179,1497
+8110356,Ivan the Terrible
+8368174,Capital punishment in Russia
+8481478,List of Belarus-related topics
+8685731,Pskov
+9693023,Vasily Tatishchev
+0.07375581900123507 , 0.0007375581900123507
+
